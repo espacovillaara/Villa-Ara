@@ -9,7 +9,6 @@ hugo_stats.json
 hugo.exe
 hugo.darwin
 hugo.linux
-package-lock.json
 
 # Temporary lock file while building
 /.hugo_build.lock
