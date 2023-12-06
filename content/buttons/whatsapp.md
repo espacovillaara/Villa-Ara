@@ -1,6 +1,6 @@
 ---
 title: whatsapp
 hover: "Whatsapp"
-image: "buttons/whatsapp.png"
-link: "https://whatsapp.com"
+phone: "+55xxXXXXXXXXX"  # número de telefone desejado
+message: "Olá, gostaria de fazer uma reserva em villa ará"  # mensagem desejada
 ---
