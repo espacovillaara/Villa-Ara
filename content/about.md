@@ -53,5 +53,3 @@ Estamos na Enseada de Araçatiba, que fica entre a Lagoa Verde e a Gruta do Acai
 Com a facilidade de ter logo abaixo da hospedagem um restaurante bar rústico e cheio de estilo com funcionamento diurno e noturno.
 
 📲 Faça a sua reserva e venha conosco curtir o melhor de Araçatiba na Ilha Grande!
-
-

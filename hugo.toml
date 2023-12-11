@@ -8,12 +8,12 @@ timeZone = "Europe/Berlin"
 theme = "gallery"
 
 [params]
-  title = "My Gallery"
-  description = "Example site for hugo-theme-gallery"
+  title = "Vila Ará"
+  description = "Pousada vila ara"
   defaultTheme = "light"
 
 [author]
-  name = "Your Name"
+  name = "Vila ara"
 
 [outputs]
   page = ["HTML"]
