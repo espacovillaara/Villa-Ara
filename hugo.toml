@@ -1,8 +1,8 @@
-title = "Pousada Villa Ará"
+title = "Villa Ará"
 languageCode = "en-us"
-copyright = "© Your Name"
+copyright = "© nome empresa"
 disableKinds = ["taxonomy", "term"]
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt-br"
 enableRobotsTXT = true
 timeZone = "Europe/Berlin"
 theme = "gallery"
@@ -56,6 +56,35 @@ theme = "gallery"
 
 [menu]
 [[menu.footer]]
-  name = "GitHub"
-  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+  name = "Trip Advisor"
+  url = ""
+  weight = 1
+[[menu.footer]]
+  name = "Instagram"
+  url = ""
   weight = 3
+
+[languages.pt-br]
+languageName = "Portugues Brasil"
+languageFlag = "🇧🇷"
+weight = 1
+
+
+[languages.en]
+languageName = "English"
+languageFlag = "🇺🇸"
+weight = 2
+
+
+
+[languages.fr]
+languageName = "Français"
+languageFlag = "🇫🇷"
+weight = 3
+
+
+[languages.es]
+languageName = "Spanish"
+languageFlag = "🇪🇸"
+weight = 4
+
