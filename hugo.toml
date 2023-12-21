@@ -4,7 +4,7 @@ copyright = "© nome empresa"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "pt-br"
 enableRobotsTXT = true
-timeZone = "Europe/Berlin"
+timeZone = "America/Sao_Paulo"
 theme = "gallery"
 
 [params]
@@ -57,12 +57,17 @@ theme = "gallery"
 [menu]
 [[menu.footer]]
   name = "Trip Advisor"
-  url = ""
+  url = "https://www.tripadvisor.com/Restaurant_Review-g20379436-d26157505-Reviews-Espaco_Villa_Ara-Praia_de_Aracatiba_Angra_Dos_Reis_State_of_Rio_de_Janeiro.html"
   weight = 1
+  [menu.footer.params]
+  image = ""
 [[menu.footer]]
   name = "Instagram"
-  url = ""
+  url = "https://www.instagram.com/pousadavillaara/"
+  image = "images/bla.png"
   weight = 3
+  [menu.footer.params]
+  image = ""
 
 [languages.pt-br]
 languageName = "Portugues Brasil"
@@ -87,4 +92,9 @@ weight = 3
 languageName = "Spanish"
 languageFlag = "🇪🇸"
 weight = 4
+
+[[params.buttons]]
+title = "whatsapp"
+phone = "5519991599786"
+message = "Olá, gostaria de fazer uma reserva"
 

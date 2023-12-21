@@ -7,7 +7,7 @@ button_desc: "Reserve já"
 viemo_code: "192764867"
 background_image: "background2.jpg"
 map: true
-weight: 0
+weight: 1
 ---
 # Sobre a Pousada Villa Ará
 

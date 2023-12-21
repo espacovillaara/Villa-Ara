@@ -6,15 +6,17 @@ button_url: "https://booking.hqbeds.com.br/espacovillaara"
 button_desc: "Reserve já"
 viemo_code: "192764867"
 background_image: "background2.jpg"
-weight: 0
+weight: 3
 ---
-# Sobre a Pousada Villa Ará
 
-bla
+# Estadia Paradisíaca: Bar e Restaurante à Beira-Mar com Vista Incrível! 🏖️🍹
 
-- 🏝️ Paraíso à beira-mar no coração da Enseada de Araçatiba.
-- 🏡 Casa com estilo "coliving" e comodidades de pousada.
-- ❄️ 5 quartos climatizados, perfeitos para até 17 pessoas.
-- 🌅 Localização única entre a Lagoa Verde e a Gruta do Acaiá.
-- 🍽️ Ará Bistrô: restaurante bar rústico para experiências gastronômicas memoráveis.
+Descubra o encanto de uma estadia única à beira-mar, com vistas deslumbrantes para o oceano em uma praia paradisíaca. Ao escolher nossa hospedagem, a poucos passos do Ará Bistrô, você aproveitará:
 
+- 🌅 **Vistas Deslumbrantes:** Saboreie suas refeições em nosso bar e restaurante, desfrutando de uma vista incrível para o mar.
+  
+- 🥂 **Ambiente Aconchegante:** Crie memórias especiais em um espaço à beira-mar com iluminação incrível.
+
+Sua estadia será uma experiência sensorial completa, unindo o sabor excepcional à beleza do oceano. Não deixe de experimentar nossos drinks fantásticos! 🌊🍹
+
+🗓️ Confira mais em nosso [Cardápio](https://drive.google.com/drive/folders/1dreoHFP38xLzX6YE10H25ugNOZpuK0Of) online
