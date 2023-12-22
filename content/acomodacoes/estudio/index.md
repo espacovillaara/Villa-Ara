@@ -6,21 +6,21 @@ button_url: "https://booking.hqbeds.com.br/espacovillaara"
 button_desc: "Reserve já"
 viemo_code: "192764867"
 background_image: "background2.jpg"
+features:
+  a: solteiro.png 
+  b: solteiro.png
+  c: solteiro.png
+  d: casal.png
+  e: casal.png
+  f: armario.png
+  g: ar.png
+  h: tv.png
+  i: fogao.png
+  j: geladeira.png
+  k: wifi.png
 weight: 1
 ---
 
-## 🏡 Bem-vindo ao nosso aconchegante refúgio!
+## Estúdio
 
-Este espaço encantador oferece:
-
-- 🛌 **Dois quartos para até 7 pessoas com vista para o mar:**
-  - Quarto 1: Cama de casal e duas de solteiro
-  - Quarto 2: Cama de casal e solteiro
-
-- 🛋 **Sala com TV** para momentos de descontração.
-
-- 🍳 **Cozinha** totalmente equipada.
-
-- 🧥 **Armário de roupas**
-
-Aproveite cada momento nesta hospedagem acolhedora! ✨
+*O estúdio oferece um ambiente exclusivo e espaçoso, acomodando até **7 pessoas**. Composto por **dois quartos**, o primeiro possui **uma cama de casal** e **duas de solteiro**, enquanto o segundo dispõe de **uma cama de casal** e **uma de solteiro**. Ambos os quartos estão equipados com **armário**, **ar-condicionado**. Alem disso, o espaco conta com uma **cozinha completa** e ampla sala com **TV**.*

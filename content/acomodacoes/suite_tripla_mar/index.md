@@ -8,22 +8,16 @@ viemo_code: "192764867"
 background_image: "background2.jpg"
 weight: 3
 ---
+## Suíte Tripla Frente ao Mar com Varanda
+### Esta suíte oferece:
+- **Vista para o mar** 
+- **Acomodação para três pessoas:** 
+    - **1 cama de casal**
+    - **1 cama de solteiro**
+- **Ar condicionado** 
+- **Frigobar**
+- **Armário de roupas** 
+- **Varanda com rede**
 
+>  Navegar nas ondas do luxo, essa suíte tripla à beira-mar é o refúgio perfeito para quem busca a harmonia  entre conforto, estilo e a serenidade das marés. Como diria o poeta da hospitalidade, 'onde o mar encontra o descanso, a beleza se revela em cada onda'.
 
-## 🌊 Suíte Tripla Frente ao Mar com Varanda
-
-Esta suíte encantadora oferece:
-
-- 🌅 **Vista para o mar** para uma experiência relaxante.
-
-- 🛏 **Acomodação para três pessoas:** cama de casal e uma de solteiro.
-
-- ❄️ **Ar condicionado** para garantir seu conforto.
-
-- 🍹 **Frigobar** para manter suas bebidas sempre frescas.
-
-- 🧥 **Armário de roupas** para guardar suas roupas
-
-- 🌅 **Varanda com rede** para momentos de tranquilidade à beira-mar.
-
-Desfrute de uma estadia memorável nesta suíte à beira-mar! 🌟

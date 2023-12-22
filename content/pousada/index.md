@@ -9,10 +9,7 @@ background_image: "background2.jpg"
 map: true
 weight: 1
 ---
-# Sobre a Pousada Villa Ará
 
-- 🏝️ Paraíso à beira-mar no coração da Enseada de Araçatiba.
-- 🏡 Casa com estilo "coliving" e comodidades de pousada.
-- ❄️ 5 quartos climatizados, perfeitos para até 17 pessoas.
-- 🌅 Localização única entre a Lagoa Verde e a Gruta do Acaiá.
-- 🍽️ Ará Bistrô: restaurante bar rústico para experiências gastronômicas memoráveis.
+## Seja bem vindo
+
+*Paraíso à beira mar no coração da Enseada de Araçatiba. Casa no estilo “co-living” e comodidades de pousada, conta com cinco quartos climatizados, com capacidade total para até 17 hóspedes. Com localização única entre a Lagoa Verde e a Gruta do Acaiá, a Pousada Villa Ará conta com restaurante e bar para uma experiência gastronômica memorável.*
