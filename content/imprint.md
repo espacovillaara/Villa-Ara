@@ -1,5 +1,5 @@
 ---
-title: Pousada Vila Ará
+title: Vila Ará
 rss_ignore: true
 layout: page
 menu:

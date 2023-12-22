@@ -6,19 +6,15 @@ button_url: "https://booking.hqbeds.com.br/espacovillaara"
 button_desc: "Reserve já"
 viemo_code: "192764867"
 background_image: "background2.jpg"
+features:
+  a: solteiro.png 
+  e: casal.png
+  f: armario.png
+  g: ar.png
+  h: tv.png
+  i: wifi.png
 weight: 4
 ---
 
-## 🛌 Suíte Tripla Interna
-
-Esta suíte confortável oferece:
-
-- 🛏 **Acomodação para três pessoas:** cama de casal e uma de solteiro.
-
-- ❄️ **Ar condicionado** para garantir seu conforto.
-
-- 📺 **TV** para entretenimento no seu próprio espaço.
-
-- 🧥 **Armário de roupas** para guardar suas roupas
-
-Desfrute de uma estadia aconchegante nesta suíte tripla! 🌟
+## Suite Tripla
+*Esta suite acomodanda até **3 pessoas**. Composta por **1 cama** de solteiro e **1 cama** de casal. Equipada com: **armário, ar-condicionado, wifi e TV**.*

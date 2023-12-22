@@ -1,6 +1,6 @@
 title = "Villa Ará"
 languageCode = "en-us"
-copyright = "© nome empresa"
+copyright = "© Todos os direitos reservados"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "pt-br"
 enableRobotsTXT = true
@@ -58,7 +58,7 @@ theme = "gallery"
 [[menu.footer]]
   name = "Trip Advisor"
   url = "https://www.tripadvisor.com/Restaurant_Review-g20379436-d26157505-Reviews-Espaco_Villa_Ara-Praia_de_Aracatiba_Angra_Dos_Reis_State_of_Rio_de_Janeiro.html"
-  weight = 1
+  weight = 2
   [menu.footer.params]
   image = ""
 [[menu.footer]]

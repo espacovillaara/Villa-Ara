@@ -9,14 +9,9 @@ background_image: "background2.jpg"
 weight: 3
 ---
 
-# Estadia Paradisíaca: Bar e Restaurante à Beira-Mar com Vista Incrível! 🏖️🍹
+
+## Bar e Restaurante
 
 Descubra o encanto de uma estadia única à beira-mar, com vistas deslumbrantes para o oceano em uma praia paradisíaca. Ao escolher nossa hospedagem, a poucos passos do Ará Bistrô, você aproveitará:
 
-- 🌅 **Vistas Deslumbrantes:** Saboreie suas refeições em nosso bar e restaurante, desfrutando de uma vista incrível para o mar.
-  
-- 🥂 **Ambiente Aconchegante:** Crie memórias especiais em um espaço à beira-mar com iluminação incrível.
-
-Sua estadia será uma experiência sensorial completa, unindo o sabor excepcional à beleza do oceano. Não deixe de experimentar nossos drinks fantásticos! 🌊🍹
-
-🗓️ Confira mais em nosso [Cardápio](https://drive.google.com/drive/folders/1dreoHFP38xLzX6YE10H25ugNOZpuK0Of) online
+Confira mais em nosso [cardápio online](https://drive.google.com/drive/folders/1dreoHFP38xLzX6YE10H25ugNOZpuK0Of) [![N|Solid](/menu.png)](https://drive.google.com/drive/folders/1dreoHFP38xLzX6YE10H25ugNOZpuK0Of)

@@ -15,12 +15,12 @@ features:
   f: armario.png
   g: ar.png
   h: tv.png
-  i: fogao.png
+  i: wifi.png
   j: geladeira.png
-  k: wifi.png
+  k: fogao.png
 weight: 1
 ---
 
 ## Estúdio
 
-*O estúdio oferece um ambiente exclusivo e espaçoso, acomodando até **7 pessoas**. Composto por **dois quartos**, o primeiro possui **uma cama de casal** e **duas de solteiro**, enquanto o segundo dispõe de **uma cama de casal** e **uma de solteiro**. Ambos os quartos estão equipados com **armário**, **ar-condicionado**. Alem disso, o espaco conta com uma **cozinha completa** e ampla sala com **TV**.*
+*O estúdio oferece um ambiente exclusivo e espaçoso, acomoda até **7 pessoas**. Composto por **dois quartos**, o primeiro possui **uma cama de casal** e **duas de solteiro**, enquanto o segundo dispõe de **uma cama de casal** e **uma de solteiro**. Ambos os quartos estão equipados com **armário**, **ar-condicionado**. Alem disso, o espaco conta com uma **cozinha completa** e ampla sala com **TV** e **WiFi**.*

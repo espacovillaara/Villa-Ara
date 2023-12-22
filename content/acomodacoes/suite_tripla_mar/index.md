@@ -6,18 +6,18 @@ button_url: "https://booking.hqbeds.com.br/espacovillaara"
 button_desc: "Reserve já"
 viemo_code: "192764867"
 background_image: "background2.jpg"
+features:
+  a: solteiro.png 
+  e: casal.png
+  f: armario.png
+  g: ar.png
+  h: tv.png
+  i: wifi.png
+  j: frigobar.png
 weight: 3
 ---
-## Suíte Tripla Frente ao Mar com Varanda
-### Esta suíte oferece:
-- **Vista para o mar** 
-- **Acomodação para três pessoas:** 
-    - **1 cama de casal**
-    - **1 cama de solteiro**
-- **Ar condicionado** 
-- **Frigobar**
-- **Armário de roupas** 
-- **Varanda com rede**
 
->  Navegar nas ondas do luxo, essa suíte tripla à beira-mar é o refúgio perfeito para quem busca a harmonia  entre conforto, estilo e a serenidade das marés. Como diria o poeta da hospitalidade, 'onde o mar encontra o descanso, a beleza se revela em cada onda'.
+## Suíte Tripla Frente Mar
+*Esta suite possui uma **varanda frente mar** com rede de descanso. acomoda até **3 pessoas**. É composta por **1 cama** de solteiro e **1 cama** de casal. Equipada com: **armário, ar-condicionado, frigobar, WiFi e TV**.*
+
 
