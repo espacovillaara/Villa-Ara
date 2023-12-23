@@ -1,9 +1,9 @@
 ---
-title: Suite Tripla
+title: Triple Suite
 featured_image: 1.jpeg
 profile_image: "logo.jpeg"
 button_url: "https://booking.hqbeds.com.br/espacovillaara"
-button_desc: "Reserve já"
+button_desc: "Book now"
 viemo_code: ""
 background_image: ""
 features:
@@ -15,6 +15,6 @@ features:
   i: wifi.png
 weight: 4
 ---
+## Triple Suite
 
-## Suite Tripla
-*Esta suite acomodanda até **3 pessoas**. Composta por **1 cama** de solteiro e **1 cama** de casal. Equipada com: **armário, ar-condicionado, wifi e TV**.*
+This suite accommodates up to **3 guests**. It consists of **1 single bed** and **1 double bed** Equipped with: **wardrobe, air conditioning, WiFi** and **TV**.

@@ -1,54 +1,32 @@
 ---
-title: Sobre en
+title: About
 rss_ignore: true
 layout: page
 menu:
   main:
     weight: 1
 ---
-# Sobre a Pousada Villa Ará en
-Descubra o paraíso na Enseada de Araçatiba, Ilha Grande, onde a **Pousada Villa Ará** harmoniza o aconchego de uma casa no estilo "coliving" com as luxuosas comodidades de uma pousada à beira-mar. Com 5 quartos cuidadosamente climatizados, a pousada oferece acomodações para até 17 pessoas, proporcionando uma estadia confortável e acolhedora.
+## About Villa Ará Inn
+Discover paradise in Araçatiba Cove, Ilha Grande, where Villa Ará Inn harmonizes the coziness of a "coliving" style home with the luxurious amenities of a seaside Inn. With 5 air-conditioned rooms, the Inn provides accommodation for up to 17 people, offering a comfortable and welcoming stay.
 
-## Localização Privilegiada
+## Prime Location
+Located between the serenity of the Green Lagoon and the mystique of Acaiá Cave, the inn provides a unique experience immersed in the lush nature of the region.
 
-Situada entre a serenidade da **Lagoa Verde** e a mística da **Gruta do Acaiá,** a pousada proporciona uma experiência única, imersa na natureza exuberante da região.
+## Exclusive Gastronomy
+Just below the accommodation, Ará Bistrô adds a layer of charm and convenience to your stay. This rustic restaurant-bar offers a unique culinary experience where guests can enjoy delicious options during the day and night.
 
-## Gastronomia Exclusiva
+## Villa Ará Inn Offers
+- Outdoor swimming pool
+- Barbecue area
+- Outdoor terrace and ground-floor balcony with sea views
+- Shared lounge
+- Air conditioning
+- Wi-Fi Starlink
+- Flat-screen TVs via satellite (with streaming service available)
+- Shared equipped kitchen
+- Towels and bed linen
 
-Logo abaixo da hospedagem, o **Ará Bistrô** acrescenta uma camada de charme e praticidade à sua estadia. Este restaurante-bar rústico oferece uma experiência culinária única, onde os hóspedes podem desfrutar de deliciosas opções diurnas e noturnas.
+## Ará Bistrô
 
-## Resumo
-
-- 🏝️ Paraíso à beira-mar no coração da Enseada de Araçatiba.
-- 🏡 Casa com estilo "coliving" e comodidades de pousada.
-- ❄️ 5 quartos climatizados, perfeitos para até 17 pessoas.
-- 🌅 Localização única entre a Lagoa Verde e a Gruta do Acaiá.
-- 🍽️ Ará Bistrô: restaurante bar rústico para experiências gastronômicas memoráveis.
-
-📲 Faça sua reserva agora e mergulhe em uma experiência inesquecível na Pousada Villa Ará!
-
-## Espaço Villa Ará Oferece
-
-- 🏊‍♂️ Piscina ao ar livre
-- 🥩 Área de churrasco
-- 🌅 Terraço ao ar livre e varanda térrea com vista para o mar
-- 🛋️ Lounge compartilhado
-
-♒️ As acomodações contam com ar-condicionado.
-
-- 🛜 Wi-Fi Starlink
-- 🛏️ A pousada tem 5 quartos, 4 banheiros e acomoda até 17 pessoas.
-- 🖥️ TVs tela plana via satélite (com serviço de Streaming disponível)
-- 🍽️ Cozinha equipada compartilhada
-
-🪶 Fornecemos toalhas e roupa de cama.
-
-### Localização
-
-Estamos na Enseada de Araçatiba, que fica entre a Lagoa Verde e a Gruta do Acaiá na Ilha Grande.
-
-### Ará Bistrô
-
-Com a facilidade de ter logo abaixo da hospedagem um restaurante bar rústico e cheio de estilo com funcionamento diurno e noturno.
-
-📲 Faça a sua reserva e venha conosco curtir o melhor de Araçatiba na Ilha Grande!
+With the convenience of having a rustic and stylish restaurant-bar just below the accommodation, operating both during the day and at night.
+Make your reservation and come join us to experience the best of Araçatiba in Ilha Grande!

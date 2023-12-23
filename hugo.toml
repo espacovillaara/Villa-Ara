@@ -74,24 +74,16 @@ languageName = "Portugues Brasil"
 languageFlag = "🇧🇷"
 weight = 1
 
-
 [languages.en]
 languageName = "English"
 languageFlag = "🇺🇸"
 weight = 2
 
 
-
-[languages.fr]
-languageName = "Français"
-languageFlag = "🇫🇷"
-weight = 3
-
-
-[languages.es]
-languageName = "Spanish"
-languageFlag = "🇪🇸"
-weight = 4
+[[params.buttons]]
+title = "booking"
+image = "booking.png"
+link = "https://booking.hqbeds.com.br/espacovillaara"
 
 [[params.buttons]]
 title = "whatsapp"
