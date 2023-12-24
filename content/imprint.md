@@ -1,5 +1,5 @@
 ---
-title: Vila Ará
+title: Villa Ará
 rss_ignore: true
 layout: page
 menu:
