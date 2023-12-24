@@ -1,6 +1,6 @@
 ---
 title: Maritime Crossing
-featured_image: 1.png
+featured_image: 1.jpeg
 profile_image: "logo.jpeg"
 button_url: "https://booking.hqbeds.com.br/espacovillaara"
 button_desc: "Buy ticket"

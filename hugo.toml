@@ -8,12 +8,12 @@ timeZone = "America/Sao_Paulo"
 theme = "gallery"
 
 [params]
-  title = "Vila Ará"
+  title = "Villa Ará"
   description = "Pousada vila ara"
   defaultTheme = "light"
 
 [author]
-  name = "Vila ara"
+  name = "Villa ara"
 
 [outputs]
   page = ["HTML"]

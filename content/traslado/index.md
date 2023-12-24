@@ -11,4 +11,6 @@ weight: 4
 
 ## Traslado Marítimo por Lancha
 
-*Villa Ará indica a empresa de traslado [Flex Boat Natiga](https://natiga.tur.br/compra-de-passagens/) para o seu conforto, rapidez e segurança na travessia maritima. Vale ressaltar que a travessia maritima para a pousada tem saida **apenas por Angra dos Reis**. Garanta a sua reserva com antecedência.*
+*Indicamos o [Flexboat Natiga](https://natiga.tur.br/compra-de-passagens/) para realizar a travessia marítima desde o centro de Angra dos Reis até a pousada na praia de Araçatiba.  O serviço é prestado diariamente em horários regulares com conforto, rapidez e segurança. Garanta a sua reserva com antecedência no site [natiga.tur.br](https://t.natiga.tur.br) *
+
+IMPORTANTE. *O embarque para a pousada é apenas por **Angra dos Reis**. NÃO vá para Mangaratiba, Conceição de Jacareí. NÃO vá para Vila do Abraão.  Sugerimos que compre a passagem no site da Natiga para não errar de praia.*
